@@ -25,4 +25,5 @@ Requirements:
 
 <hr>
 Can't upload output result here because file size is more than 25mb.
+
 ### Result on https://youtu.be/ubRumcFOTIg
