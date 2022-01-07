@@ -9,7 +9,7 @@ Requirements:
 5. Utils
 <hr>
 
-### Nama Kelompok :
+### Nama Kelompok 4 :
 1) Moh. Putra Satria (F55120009) 
 2) Ilham Abdillah Sani (F55120003) 
 3) Fahrul Rouzy (F55120021) 
